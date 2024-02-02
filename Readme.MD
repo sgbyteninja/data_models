@@ -1,6 +1,6 @@
 # Data Models for Pacific Pantry
 
-This repository contains two data models designed for Pacific Pantry, a hypothetical Asian market chain based in Chinatown, San Francisco. The data models are implemented using MySQL and include:
+This repository contains two data models designed for Pacific Pantry, a hypothetical Asian market chain based in Chinatown, San Francisco. The data models are implemented using MySQL Workbench and include:
 
 1. **Star Schema Model**
 2. **Data Vault Model**
@@ -20,6 +20,7 @@ In this project, two methods for modeling a data warehouse were used based on a 
 1. **Star Schema method** by Ralph Kimball
 2. **Data Vault method** by Daniel Linstedt
 
+The repository also includes MySQL Workbench (.mwb) files, which allow for viewing the models.
 Both methods were applied to the use case discussed above to determine their advantages and disadvantages.
 
 ## Project Structure
